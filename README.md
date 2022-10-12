@@ -7,6 +7,8 @@ run with:
 python detectbryce.py --weights brycesmall.pt --img 96 --conf-thres 0.4 --source 0
 <br />
 this runs at about 25ms on my CPU only (R3-1300g)
+<br />
+Obviously, you need to have the whole yolov5 folder running correctly.
 
 <br /><br />
 ![screenshot of output video](https://github.com/BryceP-44/video-recording-software/blob/main/videorecord%20software.png)
