@@ -6,7 +6,7 @@ run with:
 <br />
 python detectbryce.py --weights brycesmall.pt --img 96 --conf-thres 0.4 --source 0
 <br />
-this runs at about 25ms on my CPU only (R3-1300g)
+this runs at about 25ms on my CPU only (R3-1200g)
 <br />
 Obviously, you need to have the whole yolov5 folder running correctly.
 
